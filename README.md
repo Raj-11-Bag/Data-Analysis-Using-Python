@@ -119,3 +119,42 @@ Here is a sample of the dataset:
 </table>
 
 For a more detailed view, you can refer to the dataset file included in the `data` folder.
+
+## Visualizations
+This project includes various visualizations generated from the financial dataset:
+
+- **Line Graph**: Shows sales trends by country.
+- **Scatter Plot**: Displays profit distribution by country.
+- **Histogram**: Illustrates profit distribution by segment.
+- **Bar Chart**: Visualizes segment counts.
+- **Pie Chart**: Represents gross sales distribution by country.
+- **Swarm Plot**: Shows units sold by country.
+- **Pair Plot**: Provides insights into yearly analysis.
+- **Box Plot**: Illustrates units sold by product.
+- **Grouped Bar Chart**: Displays sector, country, and product counts.
+
+Each visualization provides a clear representation of different aspects of the financial data.
+
+## Statistical Analysis
+This project includes the following statistical analyses:
+
+- **T-Test**: Compares Fat % between different products.
+- **ANOVA**: Analyzes price differences across various products.
+
+These analyses help in understanding statistical significance and differences within the dataset.
+
+## Contributing
+Contributions to this project are welcome! If you would like to contribute, please follow these steps:
+
+1. Fork the repository and clone it to your local machine.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and test thoroughly.
+4. Commit your changes with descriptive commit messages.
+5. Push your changes to your forked repository.
+6. Open a pull request against the `main` branch of this repository.
+
+Please ensure your contributions adhere to the coding standards and focus on enhancing the project's functionality or resolving existing issues.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
+
